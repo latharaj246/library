@@ -2,8 +2,6 @@ package com.library.lms.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
-
-
 import java.util.Date;
 
 @Data
